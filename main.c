@@ -6,6 +6,5 @@ int main(void) {
     printf("Please input a:");
     scanf("%d", &a);
     printf("a = %d\n", a);
-    system("pause");
     return 0;
 }
