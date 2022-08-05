@@ -4,8 +4,7 @@
 void menu() {
 	printf("--------HELLO--WORLD--PROGRAM--------\n");
 	printf("-------------------------------------\n");
-	printf("-------------------------------------\n");
-	printf("-------------------------------------\n");
+	printf("--------HELLO--WORLD--PROGRAM--------\n");
 }
 
 int main(void) {
