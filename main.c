@@ -3,8 +3,8 @@
 
 void menu() {
 	printf("--------HELLO--WORLD--PROGRAM--------\n");
+	printf("-------------------------------------\n");
 	printf("--------HELLO---------PROGRAM--------\n");
-	printf("--------HELLO-------df--PROGRAM--------\n");
 	printf("--------HELLO--WORLD--PROGRAM--------\n");
 }
 
@@ -14,6 +14,5 @@ int main(void) {
     printf("Please input a:");
     scanf("%d", &a);
     printf("a = %d\n", a);
-	system("pause");
     return 0;
 }
