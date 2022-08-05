@@ -3,8 +3,8 @@
 
 void menu() {
 	printf("--------HELLO--WORLD--PROGRAM--------\n");
-	printf("--------HELLO--WORLD--PROGRAM--------\n");
-	printf("--------HELLO--WORLD--PROGRAM--------\n");
+	printf("--------HELLO---------PROGRAM--------\n");
+	printf("--------HELLO---------PROGRAM--------\n");
 	printf("--------HELLO--WORLD--PROGRAM--------\n");
 }
 
